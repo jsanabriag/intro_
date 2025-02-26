@@ -10,4 +10,12 @@
 #text1{
 
     width: 800px;
+    height: 40px;
+    font: size 20px
+}
+
+#resultados {
+    margin-top: 20px;
+    font-size: 18px;
+    color: black;
 }
